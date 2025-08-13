@@ -143,5 +143,6 @@ table {
 @media screen and (max-width: 600px) {
     .product__container {
         max-width: 350px;
+        height: auto;
     }
 }
