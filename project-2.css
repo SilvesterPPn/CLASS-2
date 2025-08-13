@@ -138,3 +138,10 @@ table {
     font-weight: 600;
     cursor: pointer;
 }
+
+
+@media screen and (max-width: 600px) {
+    .product__container {
+        max-width: 350px;
+    }
+}
